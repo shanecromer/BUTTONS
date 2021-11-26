@@ -1,6 +1,6 @@
 
 
-from PyQt6 import QtCore, QtGui, QtWidgets,QShortcut
+from PyQt6 import QtCore, QtGui, QtWidgets
 
 import pygame
 # from pygame import music
